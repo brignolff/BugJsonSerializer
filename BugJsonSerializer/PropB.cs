@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace BugJsonSerializer
 {
+	[DataContract]
 	public class PropB
 	{
 		[DataMember]
