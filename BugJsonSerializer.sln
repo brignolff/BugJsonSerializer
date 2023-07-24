@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugJsonSerializer", "BugJsonSerializer\BugJsonSerializer.csproj", "{BBD15717-6214-452B-B01D-1AAF7CB05904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD15717-6214-452B-B01D-1AAF7CB05904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD15717-6214-452B-B01D-1AAF7CB05904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD15717-6214-452B-B01D-1AAF7CB05904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD15717-6214-452B-B01D-1AAF7CB05904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C152900-3C27-4114-B45A-BC2DA1D4239E}
+	EndGlobalSection
+EndGlobal
